@@ -12,4 +12,4 @@ Clona el repositorio:
 ```bash
 git clone https://github.com/Smejia11/colombia-ip-cidr.git
 cd colombia-ip-cidr
-npm install
+node --run start
